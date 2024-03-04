@@ -23,7 +23,9 @@ Encapsulates the blockchain logic.
 
 ## Branching Strategy
 The repository contains two main branches:
+
 main: Serves as the primary branch where the final version of the code is maintained.
+
 dev: Used for development purposes, where new features and fixes are implemented before being merged into the main branch.
 
 ## Git Commands Used
